@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571045291849",
+    "firebase_url": "https://safeslotting.firebaseio.com",
+    "project_id": "safeslotting",
+    "storage_bucket": "safeslotting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571045291849:android:348384fdc65d0db0329c98",
+        "android_client_info": {
+          "package_name": "com.example.safeslotting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571045291849-p3eshpc6spi235qt8dgoca4f3c3r9fup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safeslotting",
+            "certificate_hash": "3eefe514e7e6a1ea9178a4f9e51cd1aba746173c"
+          }
+        },
+        {
+          "client_id": "571045291849-aclifbih8fdadke3ov5drhvlmvskmo5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2zyTq7v1wcsGw5lB6TLmHOMGDf3f5KbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571045291849-aclifbih8fdadke3ov5drhvlmvskmo5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
